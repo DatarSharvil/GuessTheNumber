@@ -6,4 +6,4 @@
   <p> Recommended: Java 21 </p>
 
 # Usage:
-  1. Linux (Debian-based): Just install the .deb file the way you like and enter the command "anagram" from any terminal to execute.
+  1. Linux (Debian-based): Just install the .deb file the way you like and enter the command "guessthenumber" from any terminal to execute.
